@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d3b9065.css",
+    "main.js": "/static/js/main.7b7b979c.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/taranpreet.pdf": "/static/media/taranpreet.7c2a0b68b3e4a61bb6d8.pdf",
+    "static/media/mylogo.png": "/static/media/mylogo.e6843c782801a2ef5979.png",
+    "static/media/excelclone.png": "/static/media/excelclone.1b585492490c8c1cace9.png",
+    "static/media/herkahani.png": "/static/media/herkahani.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.7206044e0b5cdad44726.png",
+    "static/media/arrow-icon.png": "/static/media/arrow-icon.7bf816b5cbad44ddd9ae.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Ts.png": "/static/media/Ts.828f7c6d425b367f9191.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.5d3b9065.css.map": "/static/css/main.5d3b9065.css.map",
+    "main.7b7b979c.js.map": "/static/js/main.7b7b979c.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3b9065.css",
+    "static/js/main.7b7b979c.js"
+  ]
+}
